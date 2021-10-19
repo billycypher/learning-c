@@ -1,5 +1,7 @@
 # Hello, World!
 
+[:brazil: Leia isso em português do Brasil](README.PT-BR.md)
+
 This was our first project. What this program does is print the phrase "hello world" and insert a new line in the terminal.
 
 The first thing we did was to include the standard input-output header `stdio.h`. We couldn't use the `printf` function without it and it is resposible for printing the messages.

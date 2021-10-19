@@ -1,5 +1,7 @@
 # Olá, mundo!
 
+[:us: Read this in English](README.md)
+
 Esse foi nosso primeiro projeto. O que esse programa faz é imprimir a frase "hello, world" e pular uma linha no terminal.
 
 A primeira coisa que fizemos foi incluir a biblioteca padrão de entrada e saída `stdio.h`. Não conseguiriamos utilizara função `printf` sem ela e é ela que imprime as coisas.

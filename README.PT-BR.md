@@ -4,3 +4,7 @@
 
 Como meu sonho é ser um [Hacker White Hat](https://en.wikipedia.org/wiki/White_hat_(computer_security)), 
 pedi para o meu pai me ensinar a programar em C e esse é o nosso repositório de estudo.
+
+# Conteúdo
+
+* [Lição 01: Imprimir uma mensagem de "olá, mundo!"](lesson-01/)

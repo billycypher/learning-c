@@ -13,9 +13,9 @@ Lastly, we add the `printf` function that will take 2 arguments in this case.
 The first one is a string that defines the format. In this case, it was `"%s\n"` which means:
 
 1. `%s`: expect the next argument to be a string.
-1. `\ n`: insert a new line when printting this character .
+1. `\n`: insert a new line when printting this character .
 
-The second argument is our `" hello, world! "` message.
+The second argument is our `"hello, world!"` message.
 
 # How to compile?
 

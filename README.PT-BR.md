@@ -7,4 +7,4 @@ pedi para o meu pai me ensinar a programar em C e esse é o nosso repositório d
 
 # Conteúdo
 
-* [Lição 01: Imprimir uma mensagem de "olá, mundo!"](lesson-01/)
+* [Lição 01: Imprimir uma mensagem de "olá, mundo!"](lessons/01-printing-hello-world-message/README.PT_BR.md)

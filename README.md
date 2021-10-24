@@ -7,6 +7,10 @@ I asked my dad to teach me how to code in C and this is our study repo.
 
 # Content
 
+## Theory
+
+* [Compilers](theory/compilers/README.md) 
+
 ## Lessons 
 
 * [Lesson 01: Printing a "hello, wolrd!" message](lessons/01-printing-hello-world-message/README.md)

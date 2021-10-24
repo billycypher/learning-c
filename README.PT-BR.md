@@ -7,4 +7,10 @@ pedi para o meu pai me ensinar a programar em C e esse é o nosso repositório d
 
 # Conteúdo
 
+## Theory
+
+* [Compiladores](theory/compilers/README.PT-BR.md) 
+
+## Lições:
+
 * [Lição 01: Imprimir uma mensagem de "olá, mundo!"](lessons/01-printing-hello-world-message/README.PT_BR.md)
